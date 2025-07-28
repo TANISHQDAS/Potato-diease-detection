@@ -1,13 +1,6 @@
 ---
-title: Potato Disease
-emoji: 🐨
-colorFrom: pink
-colorTo: purple
-sdk: streamlit
-sdk_version: 1.40.2
-app_file: app.py
-pinned: false
-background_color: "#DFFFD6"
+title: Potato Disease Detection
+
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the configuration reference at https://huggingface.co/spaces/Tanishqdas/Potato_diease/tree/main
